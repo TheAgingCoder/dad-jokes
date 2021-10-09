@@ -1,0 +1,8 @@
+favicon <link>
+paste into code in head area and copy the favicon to the main folder
+
+
+
+
+
+<link rel="icon" href="favicons/favicon.ico" type="image/x-icon" />
